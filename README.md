@@ -77,7 +77,7 @@ Sitio corporativo desarrollado para empresa de soluciones tecnológicas.
 ## 📫 Contacto
 
 - GitHub: https://github.com/Tanofxp
-- LinkedIn: [(agregar enlace)](https://www.linkedin.com/in/daniel-matalone-a09b9214a/)
+- LinkedIn: [Matalone Daniel- LikedIn](https://www.linkedin.com/in/daniel-matalone-a09b9214a/)
 - Email: danifxp@gmail.com
 
 ---
